@@ -9,7 +9,7 @@
   "author": "Andrey Lebedev",
   "license": "GPL-3.0",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "material-ui": "^1.0.0-beta.21",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
